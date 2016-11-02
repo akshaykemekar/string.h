@@ -1,0 +1,32 @@
+******************************************************************************************************************************************
+							#Title:- "string1.h"
+******************************************************************************************************************************************
+Intro:
+	This is an string library with some new function
+
+Most important:-  
+		All function declaration are in string1.h file.
+# Usage:
+	*first go into the folder. 
+	*make sure that there is file called 'makefile'. 
+	*type this command in terminal
+         1) make
+         NOTE: for next time when you want play just type ./string if you want to read the use of test
+		file then just type ./string -h.
+
+	*The main.c file is test file which test the all code which stored in string1.h
+	*This file use switch cases, structure, and mainly function pointer. In this file use
+	function pointer array.
+	*use of structure to allocate the token to the code so that it will goes into the appropriate
+	switch case.
+	*All function name string are stored in structure so that it give the token.
+	*In folder there is input.txt file in which you have to type function name and input as shown in photo.
+	*If entered input goes wrong somewhere then it give seg fault.
+	*you have to type function name and there input as like
+	function name  input
+	strcpy1        abc xyz
+	strncpy1       abc xyz 2
+	strlen1        abcdef
+	as like.
+	*And run the command ./string
+

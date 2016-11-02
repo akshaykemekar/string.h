@@ -1,0 +1,16 @@
+strlen1 akshay
+strcpy1 akshay kemekar
+strncpy1 akshay kemekar 5
+reverse akshay
+strfry1 akshay
+strcmp1 abcdr abcde
+strncmp1 abcde abcdj 4
+index1 akshaykemekar k
+rindex1 akshaykemekar k
+strtok1 This-is-my-name -
+strtok_r1 This-is-my-name -
+strcat1 akshay kemekar
+strncat1 akshay kemekar 5
+strdup1 akshay
+strndup1 akshay 5
+int_converter 4559
